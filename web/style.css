@@ -1,0 +1,42 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 20px;
+    background-color: #252830;
+}
+.navbar-brand {
+    color: #08e8de !important;
+}
+
+.btn-blue {
+    color: #fff !important;
+    border-color: #fff !important;
+}
+.btn-top {
+    color: #08e8de !important;
+    border-color: #08e8de !important;
+}
+.btn-top:hover, .btn-blue:hover {
+    color: #fff !important;
+    background-color: #08e8de !important;
+    border-color: #fff !important;
+}
+h1, h4, p {
+    color: white;
+}
+.username {
+    padding: 8px;
+    margin-bottom: 0px !important;
+    color: #888;
+}
+.btn-group {
+    margin: auto !important;
+}
+.btn-secondary {
+    border-color: #151810;
+    background-color: #313539;
+}
+.reg, .login {
+    width: 35%;
+    min-width: 300px;
+    margin-top: 20px;
+}
